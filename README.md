@@ -1,2 +1,2 @@
-# Simple-Web-Counter
-A simple counter fo find the flag here.
+# Simple Web Counter
+Small JS webpage that increments a counter.
